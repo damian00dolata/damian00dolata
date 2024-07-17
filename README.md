@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Damian. I am a fourth-year Computer Science student at Poznan University of Technology.
+## My name is Damian. I am a Computer Science engineer at Poznan University of Technology.
 
 ### 🌱 I’m currently learning:
 
